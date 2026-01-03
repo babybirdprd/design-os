@@ -23,6 +23,15 @@ Each step is a conversation. The AI asks questions, you provide direction, and t
 
 ---
 
+## Google Antigravity Support
+
+Design OS includes built-in configuration for the [Google Antigravity](https://antigravity.google) IDE. This allows you to use Antigravity's agentic capabilities with Design OS specific context.
+
+- **Rules**: Pre-configured rules in `.agent/rules/` help the agent understand the Design OS context, file structure, and Tailwind directives.
+- **Workflows**: Workflows in `.agent/workflows/` (like `new-section`) help you quickly scaffold new product sections.
+
+---
+
 ## Documentation & Installation
 
 Docs, installation, usage, & best practices 👉 [It's all here](https://buildermethods.com/design-os)
